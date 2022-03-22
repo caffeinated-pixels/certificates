@@ -6,7 +6,7 @@ My frontend development certificates from Scrimba and freeCodeCamp. For larger v
 
 ### [Frontend Career Path](https://scrimba.com/certificate/ugGZkGsz/gfrontend)
 
-<img src="./scrimba/frontend-career-path.png" width="600">
+<img src="./Scrimba/frontend-career-path.png" width="600">
 
 ## freeCodeCamp
 
